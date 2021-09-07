@@ -16,6 +16,7 @@ Another goal is to display the classification results clearly,side by side with 
 * Part 4- color the large histopathology images(5000x5000x3) and Displaying the classification results,tumer epithlium alogside the original image
 
 **Results**
+
 a VGG16 with a new top, transfer/fine-tune learning technique and data agumentation 
 ![image](https://user-images.githubusercontent.com/78749321/132358872-583f32b0-cab9-4a53-b5f2-b7ec18facc0a.png)
 ![image](https://user-images.githubusercontent.com/78749321/132358934-3a914177-0b6e-4302-be98-47b1f08b29d6.png)
