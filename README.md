@@ -1,5 +1,6 @@
 #  histopathology images classification-Deeplearn
 **About**
+
 The goal of this project is to train a DNN model, using images of colorectal cancer histology inorder to classifiy histopathology images.
 Another goal is to display the classification results clearly,side by side with the original histopathology image, using color-class correlation, alogside tumer epithelium
 
