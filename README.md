@@ -18,7 +18,8 @@ Another goal is to display the classification results clearly,side by side with 
 
 **Results**
 
-a VGG16 with a new top, transfer/fine-tune learning technique and data agumentation 
+* a VGG16 with a new top, transfer/fine-tune learning technique and data agumentation the model achieve 94.6% test accuracy 
+
 ![image](https://user-images.githubusercontent.com/78749321/133000765-d65df6ed-f6fd-4d61-874b-02a7f8f951f0.png)
 ![image](https://user-images.githubusercontent.com/78749321/133000826-0e46c207-3b9a-4ade-a66c-74c2043aacd9.png)
 ![image](https://user-images.githubusercontent.com/78749321/132359182-95f32b76-9777-48d0-a497-7a13c524bf43.png)
